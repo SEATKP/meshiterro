@@ -1,0 +1,2 @@
+module PostimagaeHelper
+end
